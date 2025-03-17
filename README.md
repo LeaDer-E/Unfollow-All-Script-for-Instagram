@@ -97,8 +97,20 @@ unfollowAll();
 - **Use at your own risk!** Instagram has automated detection systems that may temporarily restrict your account if too many unfollows happen too quickly.
 
 ---
+📷 Screenshots & Demo
 
-## 📌 **SH**
+📌 Before Running the Script
+
+![image](https://github.com/user-attachments/assets/93062a86-989e-4899-a015-01d2f2dc3aa0)
+
+
+📌 After Running the Script
+
+![image](https://github.com/user-attachments/assets/78768f46-aeb0-448b-aae4-be4ba0738610)
+
+🎥 Live Demo
+
+![Screencast from 2025-03-18 01-08-06](https://github.com/user-attachments/assets/45383cb8-4676-42dd-a609-ceae0f964da8)
 
 ---
 
