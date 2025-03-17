@@ -90,7 +90,7 @@ unfollowAll();
 
 ---
 
-⚠ Important Notes
+## ⚠ Important Notes
 
 * This script only works on Instagram Web (not in the mobile app).
 * Do not refresh the page while the script is running.
@@ -100,7 +100,7 @@ unfollowAll();
 
 ---
 
-⏱ Performance & Speed
+## ⏱ Performance & Speed
 
 In 28 seconds, the script successfully unfollowed 5 people.
 
@@ -111,7 +111,7 @@ The speed may vary depending on internet speed and system performance.
 
 ---
 
-📷 Screenshots & Demo
+## 📷 Screenshots & Demo
 
 📌 Before Running the Script
 
