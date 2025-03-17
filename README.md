@@ -90,21 +90,24 @@ unfollowAll();
 
 ---
 
-## ⚠ **Important Notes**
-- This script **only works on Instagram Web** (not in the mobile app).
-- **Do not refresh the page** while the script is running.
-- Instagram may **limit actions** if you unfollow too many people at once. If the script stops working, wait a few hours and try again.
-- **Use at your own risk!** Instagram has automated detection systems that may temporarily restrict your account if too many unfollows happen too quickly.
+⚠ Important Notes
+
+* This script only works on Instagram Web (not in the mobile app).
+* Do not refresh the page while the script is running.
+* Instagram may limit actions if you unfollow too many people at once. If the script stops working, wait a few hours and try again.
+* Use at your own risk! Instagram has automated detection systems that may temporarily restrict your account if too many unfollows happen too quickly.
+* If the script stops working because followers are not loading, close the following list, reopen it, and run the script again.
 
 ---
 
-⏳ Performance & Speed
+⏱ Performance & Speed
 
-The script unfollowed 5 people in 28 seconds.
+In 28 seconds, the script successfully unfollowed 5 people.
 
-Estimated time to unfollow 100 people: ~9-10 minutes (depends on page load speed and delays between actions).
+Estimated time to unfollow 100 people: ~9 minutes and 20 seconds.
 
-Performance may vary depending on your internet connection and Instagram’s response time.
+The speed may vary depending on internet speed and system performance.
+
 
 ---
 
