@@ -195,10 +195,13 @@ Instagram's systems are specifically designed to detect activities performed at 
 * **Loss of Account Access:** You may be asked to verify your identity to regain access to your account.
 * **Permanent Ban:** In cases of repeated offenses or highly suspicious activity, your account may be permanently disabled.
 
-### Our Advice:
+### My Advice:
 **Safety first, speed second**. Always use reasonable delay intervals (`delays`) between each operation (at least 1 second). It is better to take a little longer than to risk losing the account you've built.
 
 **Use this script at your own personal risk.**
+
+**For your account's safety, your best choice is `Unfollow.js` or `unfollow-v2.js`. Iam strongly advise against ever using the `unfollow-fastest.js` script.**
+
 
 ---
 
