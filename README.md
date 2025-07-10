@@ -183,6 +183,25 @@ unfollowAllMaximumSpeed();
 
 ---
 
+
+## ⚠️ Important Note on Script Speed (Read Carefully!)
+
+Although using the script at high speed might seem tempting to save time, it is **the most dangerous behavior for your account**.
+
+Instagram's systems are specifically designed to detect activities performed at **inhuman speeds**. When you unfollow dozens of accounts in a single moments, you are immediately flagged as a **"bot"**, which can lead to severe consequences.
+
+### What are the risks?
+* **Temporary Blocks (Action Blocked):** Instagram will prevent you from performing any actions (like following, liking, or commenting) for a period that can last several days.
+* **Loss of Account Access:** You may be asked to verify your identity to regain access to your account.
+* **Permanent Ban:** In cases of repeated offenses or highly suspicious activity, your account may be permanently disabled.
+
+### Our Advice:
+**Safety first, speed second**. Always use reasonable delay intervals (`delays`) between each operation (at least 1 second). It is better to take a little longer than to risk losing the account you've built.
+
+**Use this script at your own personal risk.**
+
+---
+
 ## 🚀 **Features**
 ✅ Unfollows **everyone automatically**.
 ✅ **Scrolls down** to load more users.
