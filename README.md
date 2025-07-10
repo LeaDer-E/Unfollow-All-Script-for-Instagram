@@ -76,7 +76,7 @@ unfollowAll();
 ```
 
 # Version 2 (Faster)
-```
+```javascript
 async function unfollowAllFaster() {
     // Delay speed in milliseconds (1000ms = 1 second)
     // You can adjust these values as you wish
